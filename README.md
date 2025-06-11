@@ -15,5 +15,5 @@ The business owner wants to know the top 10 billionaires’ list given a raw dat
 -	Generate a pivot table that answers the questions above.
 -	Merge all the pivot tables in one dashboard and applying slicer and filter to make it more dynamic and more user friendly.
 ## Dashboard
-
+![Dashboard](https://github.com/user-attachments/assets/0ab4caae-eab9-467a-834f-7f422e9e43fd)
 ## Project Insights
