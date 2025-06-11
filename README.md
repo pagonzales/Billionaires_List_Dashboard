@@ -17,5 +17,5 @@ The business owner wants to know the top 10 billionaires’ list given a raw dat
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/0ab4caae-eab9-467a-834f-7f422e9e43fd)
 ## Project Insights
-Based on the raw data, the top 10 in the Billionaires list are all male. The top 1 for male self-made billionaire is Elon Musk, and for top 1 female self-made billionaire is Rafaela Aponte-Diamant.
+Based on the raw data, the top 10 in the Billionaires list are all male. The top 1 for male self-made billionaire is Elon Musk, and top 1 female self-made billionaire is Rafaela Aponte-Diamant.
 Also, we can see that the age distribution of the billionaires follow the bell curve.
