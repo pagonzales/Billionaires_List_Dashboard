@@ -4,10 +4,10 @@ The business owner wants to know the top 10 billionaires’ list given a raw dat
 ## Data used
 -	<a href="https://github.com/pagonzales/Billionaires_List_Dashboard/blob/main/Billionaires%20Statistics%20Dataset%20Raw.xlsx">Dataset</a>
 ## Questions
--	Who is the top 10 billionaire
+-	Who is the top 10 billionaire given in the data set.
 -	What are the categories of the billionaire’s business.
 -	To know whether the billionaire is self-made or not.
--	To know what are their genders
+-	To know what are their genders.
 ## Process
 -	Check if the data is consistent and clean in terms of data type, data format, and values used.
 -	Use data cleaning, descriptive analysis tool, and pivot tables.
